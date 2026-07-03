@@ -93,5 +93,5 @@ MIT License
 
 ## Author
 
-Your Name  
-[GitHub Profile](https://github.com/your-github-username)
+Hithartha  
+[GitHub Profile](https://github.com/hithartha480)
